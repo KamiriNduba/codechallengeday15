@@ -180,3 +180,4 @@ class TestCustomer:
     #     Review(customer_3, restaurant_1, 3)
 
     #     assert Customer.top_negative_reviewer() == customer_1
+        

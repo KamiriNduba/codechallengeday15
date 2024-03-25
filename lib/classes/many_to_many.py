@@ -86,3 +86,4 @@ class Review:
         customer.reviews().append(self)
         restaurant.reviews().append(self)  
         Review.all.append(self)
+        
